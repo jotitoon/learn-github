@@ -1,0 +1,12 @@
+{
+  "name": "MySQL Dev Container",
+  "dockerComposeFile": ["docker-compose.yml"],
+  "service": "app",
+  "workspaceFolder": "/workspace",
+  "settings": {},
+  "extensions": [
+    "ms-azuretools.vscode-docker",
+    "cweijan.vscode-mysql-client2",
+    "ms-python.python"
+  ]
+}
